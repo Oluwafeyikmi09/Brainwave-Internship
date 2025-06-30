@@ -29,6 +29,7 @@
 
 #### Overview of findings 
 
+![image](https://github.com/user-attachments/assets/da9d5fc4-ce90-4252-b3ff-1c273b06700d)
 
 
 #### This dashboard provides a real time snapshot of public sentiment toward major U.S. airlines based on Twitter feedback. It helps stakeholders quickly identify:
