@@ -60,6 +60,9 @@
 ![image](https://github.com/user-attachments/assets/215a4f0f-463d-4e70-861a-d9e265fb1a17)
 
 
+![image](https://github.com/user-attachments/assets/67b4b7a9-31f7-4be7-b81f-f4a6cfa60056)
+
+
 
 ## Insights Deep Dive
 
@@ -77,7 +80,7 @@
 
 #### • Peak negative sentiment often occurred on Sunday, Monday and Tuesday.
 
-![image](https://github.com/user-attachments/assets/f834a20d-e8f4-4313-95d3-19da12d9eb01)
+
 
 
 ![image](https://github.com/user-attachments/assets/06e6d331-03a9-4e78-9eb2-09160072e025)
