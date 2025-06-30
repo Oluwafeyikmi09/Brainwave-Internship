@@ -10,6 +10,8 @@
 ## Data Structure Overview
 
 #### The dataset used for this analysis was sourced from Kaggle, consisting of over 14,000 tweets tagged with sentiment labels. Below are the key columns:
+![image](https://github.com/user-attachments/assets/c1eb7dfc-2b55-4dc5-9cd3-406aff38ba25)
+
 
 #### Column Name Description
 
@@ -24,6 +26,10 @@
 #### The data was cleaned, categorized, and visualized using Power BI Desktop, with the use of DAX for custom metrics and interactive filtering.
 
 ## Executive Summary
+
+#### Overview of findings 
+
+
 
 #### This dashboard provides a real time snapshot of public sentiment toward major U.S. airlines based on Twitter feedback. It helps stakeholders quickly identify:
 
