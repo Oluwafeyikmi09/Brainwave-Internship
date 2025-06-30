@@ -57,6 +57,10 @@
 #### Sentiment Trend Over Time
 
 
+![image](https://github.com/user-attachments/assets/215a4f0f-463d-4e70-861a-d9e265fb1a17)
+
+
+
 ## Insights Deep Dive
 
 #### Some of the key insights discovered through this analysis include:
