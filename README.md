@@ -15,13 +15,14 @@
 
 #### Column Name Description
 
-#### tweet_id Unique identifier for each tweet
-#### airline Airline mentioned in the tweet (e.g., United, Delta)
-#### airline_sentiment Sentiment label (Positive, Neutral, Negative)
-#### negativereason Specific reason for negative sentiment (if applicable)
-#### text Content of the tweet
-#### retweet_count Number of retweets
-#### tweet_created Timestamp of the tweet
+#### tweet_id Unique: identifier for each tweet
+#### airline Airline: mentioned in the tweet (e.g., United, Delta)
+#### airline_sentiment: Sentiment label (Positive, Neutral, Negative)
+#### negativereason: Specific reason for negative sentiment 
+#### user_location:location of the Twitter user
+#### text: Content of the tweet
+#### retweet_count: Number of retweets
+#### tweet_created: Timestamp of the tweet
 
 #### The data was cleaned, categorized, and visualized using Power BI Desktop, with the use of DAX for custom metrics and interactive filtering.
 
