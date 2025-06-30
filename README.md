@@ -80,6 +80,10 @@
 ![image](https://github.com/user-attachments/assets/f834a20d-e8f4-4313-95d3-19da12d9eb01)
 
 
+![image](https://github.com/user-attachments/assets/06e6d331-03a9-4e78-9eb2-09160072e025)
+
+
+
 ## Recommendations
 
 ####  Based on the analysis, the following recommendations are proposed:
