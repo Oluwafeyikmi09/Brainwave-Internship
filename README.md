@@ -81,6 +81,7 @@
 #### • Peak negative sentiment often occurred on Sunday, Monday and Tuesday.
 
 
+![image](https://github.com/user-attachments/assets/b87a2d65-279a-4ece-8814-d78db1234d98)
 
 
 ![image](https://github.com/user-attachments/assets/06e6d331-03a9-4e78-9eb2-09160072e025)
