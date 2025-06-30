@@ -1,7 +1,7 @@
 # Brainwave-Internship
 ## Airline Tweet Sentiment Analysis Power BI Project
 
-## Background and Overview
+## Project Background 
 
 #### In today’s digitally connected world, social media plays a pivotal role in shaping public opinion about brands airlines included. This Power BI project analyzes customer sentiment from Twitter data, focusing on how airline passengers feel about their travel experiences.
 
